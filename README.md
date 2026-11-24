@@ -19,16 +19,16 @@
 <!-- LEETSYNC:STATS:START -->
 | Problems solved | Easy | Medium | Hard | Languages |
 |:---:|:---:|:---:|:---:|:---:|
-| **2** | 🟢 0 | 🟡 0 | 🔴 0 | C |
+| **33** | 🟢 4 | 🟡 0 | 🔴 1 | C |
 <!-- LEETSYNC:STATS:END -->
 
 <!-- LEETSYNC:INSIGHTS:START -->
-**Next belt · 2 / 25 problems**
+**Next belt · 33 / 50 problems**
 
-`█░░░░░░░░░` **8%**
+`███░░░░░░░` **32%**
 
 **Language forms**  
-`C         ` ▰▰▰▰▰▰▰▰ &nbsp; 2
+`C         ` ▰▰▰▰▰▰▰▰ &nbsp; 39
 <!-- LEETSYNC:INSIGHTS:END -->
 
 <div align="center"><sub>GENERATED FROM THE CODE IN THIS REPOSITORY · ZERO MANUAL COUNTING</sub></div>
@@ -63,6 +63,37 @@ The vault is searchable with <kbd>Ctrl</kbd> + <kbd>F</kbd>. Select a problem to
 |---:|:---|:---:|:---|
 | 1 | [Array Operations](PRACTICAL%20FILE%203rd%20SEMESTER/01-Array%20Operations) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/01-Array%20Operations/Array%20operations.c) |
 | 2 | [Linked List Operations](PRACTICAL%20FILE%203rd%20SEMESTER/02-%20Linked%20list%20operations) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/02-%20Linked%20list%20operations/Linked%20list%20operations.c) |
+| 3 | [Doubly Linked List Operations](PRACTICAL%20FILE%203rd%20SEMESTER/03-Doubly%20Linked%20List%20Operations) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/03-Doubly%20Linked%20List%20Operations/code.c) |
+| 4 | [Circular Linked List Operations](PRACTICAL%20FILE%203rd%20SEMESTER/04-Circular%20Linked%20List%20Operations) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/04-Circular%20Linked%20List%20Operations/code.c) |
+| 5 | [Circular Doubly Linked List Operations](PRACTICAL%20FILE%203rd%20SEMESTER/05-Circular%20Doubly%20Linked%20List%20Operations) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/05-Circular%20Doubly%20Linked%20List%20Operations/code.c) |
+| 6 | [Stack Operations Using Array](PRACTICAL%20FILE%203rd%20SEMESTER/06-Stack%20Operations%20using%20Array) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/06-Stack%20Operations%20using%20Array/code.c) |
+| 7 | [Queue Operations Using Array](PRACTICAL%20FILE%203rd%20SEMESTER/07-%20Queue%20Operations%20using%20Array) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/07-%20Queue%20Operations%20using%20Array/code.c) |
+| 7 | [Stack Operations Using Linked List](PRACTICE/07-%20Stack%20Operations%20using%20Linked%20List) | 🔴 Hard | [C](PRACTICE/07-%20Stack%20Operations%20using%20Linked%20List/code.c) |
+| 8 | [Circular Queue Operations Using Array](PRACTICAL%20FILE%203rd%20SEMESTER/08-%20Circular%20Queue%20Operations%20using%20Array) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/08-%20Circular%20Queue%20Operations%20using%20Array/code.c) |
+| 9 | [Binary Search Tree And Avl Tree](PRACTICAL%20FILE%203rd%20SEMESTER/09-%20%20Binary%20Search%20Tree%20and%20AVL%20Tree) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/09-%20%20Binary%20Search%20Tree%20and%20AVL%20Tree/code.c) |
+| 10 | [Graph Adjacency Matrix + List, Bfs And Dfs](PRACTICAL%20FILE%203rd%20SEMESTER/10-%20Graph%20-%20Adjacency%20Matrix%20%2B%20List%2C%20BFS%20and%20DFS) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/10-%20Graph%20-%20Adjacency%20Matrix%20%2B%20List%2C%20BFS%20and%20DFS/code.c) |
+| 10 | [Queue Using Linked List](PRACTICE/10-%20Queue%20using%20linked%20list) | ⚪ — | [C](PRACTICE/10-%20Queue%20using%20linked%20list/code.c) |
+| 11 | [Infix To Postfix (or Prefix) Conversion Using Stack11](PRACTICE/11-%20Infix%20to%20Postfix%20%28or%20Prefix%29%20conversion%20using%20stack11-%20) | ⚪ — | [C](PRACTICE/11-%20Infix%20to%20Postfix%20%28or%20Prefix%29%20conversion%20using%20stack11-%20/code.c) |
+| 11 | [Linear Search And Binary Search](PRACTICAL%20FILE%203rd%20SEMESTER/11-%20Linear%20Search%20and%20Binary%20Search) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/11-%20Linear%20Search%20and%20Binary%20Search/code.c) |
+| 12 | [Postfix Expression Evaluation Using Stack](PRACTICE/12-%20Postfix%20Expression%20Evaluation%20using%20Stack) | 🟢 Easy | [C](PRACTICE/12-%20Postfix%20Expression%20Evaluation%20using%20Stack/code.c) |
+| 12 | [To 18](PRACTICAL%20FILE%203rd%20SEMESTER/12%20to%2018) | ⚪ — | [C](PRACTICAL%20FILE%203rd%20SEMESTER/12%20to%2018/bubble_sort.c) · [C](PRACTICAL%20FILE%203rd%20SEMESTER/12%20to%2018/bucket_sort.c) · [C](PRACTICAL%20FILE%203rd%20SEMESTER/12%20to%2018/heap_sort.c) · [C](PRACTICAL%20FILE%203rd%20SEMESTER/12%20to%2018/insertion_sort.c) · [C](PRACTICAL%20FILE%203rd%20SEMESTER/12%20to%2018/merge_sort.c) · [C](PRACTICAL%20FILE%203rd%20SEMESTER/12%20to%2018/quick_sort.c) · [C](PRACTICAL%20FILE%203rd%20SEMESTER/12%20to%2018/selection_sort.c) |
+| 13 | [Balanced Parentheses Checking Using Stack](PRACTICE/13-%20Balanced%20Parentheses%20Checking%20using%20Stack) | ⚪ — | [C](PRACTICE/13-%20Balanced%20Parentheses%20Checking%20using%20Stack/code.c) |
+| 14 | [Deque (double Ended Queue) Using Array](PRACTICE/14-%20Deque%20%28Double-Ended%20Queue%29%20using%20Array) | ⚪ — | [C](PRACTICE/14-%20Deque%20%28Double-Ended%20Queue%29%20using%20Array/code.c) |
+| 15 | [Factorial, Fibonacci, Gcd Using Recursion](PRACTICE/15-%20Factorial%2C%20Fibonacci%2C%20GCD%20using%20Recursion) | ⚪ — | [C](PRACTICE/15-%20Factorial%2C%20Fibonacci%2C%20GCD%20using%20Recursion/code.c) |
+| 16 | [Tower Of Hanoi](PRACTICE/16-Tower%20of%20Hanoi) | ⚪ — | [C](PRACTICE/16-Tower%20of%20Hanoi/code.c) |
+| 17 | [Linear Search And Binary Search](PRACTICE/17-%20Linear%20Search%20and%20Binary%20Search) | 🟢 Easy | [C](PRACTICE/17-%20Linear%20Search%20and%20Binary%20Search/code.c) |
+| 18 | [Bubble Sort, Selection Sort, Insertion Sort](PRACTICE/18-%20Bubble%20Sort%2C%20Selection%20Sort%2C%20Insertion%20Sort) | 🟢 Easy | [C](PRACTICE/18-%20Bubble%20Sort%2C%20Selection%20Sort%2C%20Insertion%20Sort/code.c) |
+| 19 | [Merge Sort And Quick Sort](PRACTICE/19-%20Merge%20Sort%20and%20Quick%20Sort) | 🟢 Easy | [C](PRACTICE/19-%20Merge%20Sort%20and%20Quick%20Sort/code.c) |
+| 20 | [Binary Tree Creation + Traversals](PRACTICE/20-%20Binary%20Tree%20Creation%20%2B%20Traversals) | ⚪ — | [C](PRACTICE/20-%20Binary%20Tree%20Creation%20%2B%20Traversals/code.c) |
+| 21 | [Binary Search Tree (insert, Delete, Search)](PRACTICE/21-%20Binary%20Search%20Tree%20%28Insert%2C%20Delete%2C%20Search%29) | ⚪ — | [C](PRACTICE/21-%20Binary%20Search%20Tree%20%28Insert%2C%20Delete%2C%20Search%29/code.c) |
+| 22 | [Graph Representation (adjacency Matrix) + Bfs, Dfs](PRACTICE/22-%20Graph%20Representation%20%28Adjacency%20Matrix%29%20%2B%20BFS%2C%20DFS) | ⚪ — | [C](PRACTICE/22-%20Graph%20Representation%20%28Adjacency%20Matrix%29%20%2B%20BFS%2C%20DFS/code.c) |
+| 23 | [Minimum Spanning Tree Prim's Algorithm And Kruskal's Algorithm](PRACTICE/23-%20Minimum%20Spanning%20Tree%20%20%20%20%20Prim%27s%20Algorithm%20and%20Kruskal%27s%20Algorithm) | ⚪ — | [C](PRACTICE/23-%20Minimum%20Spanning%20Tree%20%20%20%20%20Prim%27s%20Algorithm%20and%20Kruskal%27s%20Algorithm/code.c) |
+| 25 | [Heap Sort](PRACTICE/25-%20Heap%20Sort) | ⚪ — | [C](PRACTICE/25-%20Heap%20Sort/code.c) |
+| 26 | [Huffman Coding](PRACTICE/26-%20%20Huffman%20Coding) | ⚪ — | [C](PRACTICE/26-%20%20Huffman%20Coding/code.c) |
+| 27 | [Eertree](PRACTICE/27-%20Eertree) | ⚪ — | [C](PRACTICE/27-%20Eertree/code.c) |
+| 28 | [Li Chao Tree](PRACTICE/28-%20Li%20Chao%20Tree) | ⚪ — | [C](PRACTICE/28-%20Li%20Chao%20Tree/code.c) |
+| 30 | [Spiral Matrix Traversal](PRACTICE/30-%20Spiral%20Matrix%20Traversal) | ⚪ — | [C](PRACTICE/30-%20Spiral%20Matrix%20Traversal/code.c) |
+| 31 | [Rolling Hash](PRACTICE/31-Rolling%20Hash) | ⚪ — | [C](PRACTICE/31-Rolling%20Hash/code.c) |
 <!-- LEETSYNC:SOLUTIONS:END -->
 
 ## 自動化 · The invisible caretaker
