@@ -19,7 +19,7 @@
 <!-- LEETSYNC:STATS:START -->
 | Problems solved | Easy | Medium | Hard | Languages |
 |:---:|:---:|:---:|:---:|:---:|
-| **33** | 🟢 4 | 🟡 0 | 🔴 2 | C |
+| **33** | 🟢 4 | 🟡 0 | 🔴 3 | C |
 <!-- LEETSYNC:STATS:END -->
 
 <!-- LEETSYNC:INSIGHTS:START -->
@@ -90,7 +90,7 @@ The vault is searchable with <kbd>Ctrl</kbd> + <kbd>F</kbd>. Select a problem to
 | 23 | [Minimum Spanning Tree Prim's Algorithm And Kruskal's Algorithm](PRACTICE/23-%20Minimum%20Spanning%20Tree%20%20%20%20%20Prim%27s%20Algorithm%20and%20Kruskal%27s%20Algorithm) | ⚪ — | [C](PRACTICE/23-%20Minimum%20Spanning%20Tree%20%20%20%20%20Prim%27s%20Algorithm%20and%20Kruskal%27s%20Algorithm/code.c) |
 | 25 | [Heap Sort](PRACTICE/25-%20Heap%20Sort) | ⚪ — | [C](PRACTICE/25-%20Heap%20Sort/code.c) |
 | 26 | [Huffman Coding](PRACTICE/26-%20%20Huffman%20Coding) | ⚪ — | [C](PRACTICE/26-%20%20Huffman%20Coding/code.c) |
-| 27 | [Eertree](PRACTICE/27-%20Eertree) | ⚪ — | [C](PRACTICE/27-%20Eertree/code.c) |
+| 27 | [Eertree](PRACTICE/27-%20Eertree) | 🔴 Hard | [C](PRACTICE/27-%20Eertree/code.c) |
 | 28 | [Li Chao Tree](PRACTICE/28-%20Li%20Chao%20Tree) | ⚪ — | [C](PRACTICE/28-%20Li%20Chao%20Tree/code.c) |
 | 30 | [Spiral Matrix Traversal](PRACTICE/30-%20Spiral%20Matrix%20Traversal) | 🔴 Hard | [C](PRACTICE/30-%20Spiral%20Matrix%20Traversal/code.c) |
 | 31 | [Rolling Hash](PRACTICE/31-Rolling%20Hash) | ⚪ — | [C](PRACTICE/31-Rolling%20Hash/code.c) |
