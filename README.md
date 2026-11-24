@@ -19,7 +19,7 @@
 <!-- LEETSYNC:STATS:START -->
 | Problems solved | Easy | Medium | Hard | Languages |
 |:---:|:---:|:---:|:---:|:---:|
-| **33** | 🟢 4 | 🟡 0 | 🔴 4 | C |
+| **33** | 🟢 5 | 🟡 0 | 🔴 4 | C |
 <!-- LEETSYNC:STATS:END -->
 
 <!-- LEETSYNC:INSIGHTS:START -->
@@ -87,7 +87,7 @@ The vault is searchable with <kbd>Ctrl</kbd> + <kbd>F</kbd>. Select a problem to
 | 20 | [Binary Tree Creation + Traversals](PRACTICE/20-%20Binary%20Tree%20Creation%20%2B%20Traversals) | ⚪ — | [C](PRACTICE/20-%20Binary%20Tree%20Creation%20%2B%20Traversals/code.c) |
 | 21 | [Binary Search Tree (insert, Delete, Search)](PRACTICE/21-%20Binary%20Search%20Tree%20%28Insert%2C%20Delete%2C%20Search%29) | ⚪ — | [C](PRACTICE/21-%20Binary%20Search%20Tree%20%28Insert%2C%20Delete%2C%20Search%29/code.c) |
 | 22 | [Graph Representation (adjacency Matrix) + Bfs, Dfs](PRACTICE/22-%20Graph%20Representation%20%28Adjacency%20Matrix%29%20%2B%20BFS%2C%20DFS) | ⚪ — | [C](PRACTICE/22-%20Graph%20Representation%20%28Adjacency%20Matrix%29%20%2B%20BFS%2C%20DFS/code.c) |
-| 23 | [Minimum Spanning Tree Prim's Algorithm And Kruskal's Algorithm](PRACTICE/23-%20Minimum%20Spanning%20Tree%20%20%20%20%20Prim%27s%20Algorithm%20and%20Kruskal%27s%20Algorithm) | ⚪ — | [C](PRACTICE/23-%20Minimum%20Spanning%20Tree%20%20%20%20%20Prim%27s%20Algorithm%20and%20Kruskal%27s%20Algorithm/code.c) |
+| 23 | [Minimum Spanning Tree Prim's Algorithm And Kruskal's Algorithm](PRACTICE/23-%20Minimum%20Spanning%20Tree%20%20%20%20%20Prim%27s%20Algorithm%20and%20Kruskal%27s%20Algorithm) | 🟢 Easy | [C](PRACTICE/23-%20Minimum%20Spanning%20Tree%20%20%20%20%20Prim%27s%20Algorithm%20and%20Kruskal%27s%20Algorithm/code.c) |
 | 25 | [Heap Sort](PRACTICE/25-%20Heap%20Sort) | ⚪ — | [C](PRACTICE/25-%20Heap%20Sort/code.c) |
 | 26 | [Huffman Coding](PRACTICE/26-%20%20Huffman%20Coding) | ⚪ — | [C](PRACTICE/26-%20%20Huffman%20Coding/code.c) |
 | 27 | [Eertree](PRACTICE/27-%20Eertree) | 🔴 Hard | [C](PRACTICE/27-%20Eertree/code.c) |
